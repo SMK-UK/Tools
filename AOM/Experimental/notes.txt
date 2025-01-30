@@ -1,0 +1,5 @@
+Files are saved as such:
+
+voltage / freqeuncy, single pass power, double pass power
+
+all three systems had 50mW power before the AOM.
